@@ -1,11 +1,11 @@
 # Site settings
 author: Isaac Smith
-title: 
+title: Why I joined Flatiron
 header-img: img/home-bg.png
 email: isaacsmith215@aol.com
 copyright_name: Isaac Smith
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A New Path
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  isaac-20
